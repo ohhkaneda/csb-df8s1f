@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ohhkaneda.github.io/csb-df8s1f/static/css/main.0d6aa366.chunk.css",
+    "main.js": "https://ohhkaneda.github.io/csb-df8s1f/static/js/main.ed70d269.chunk.js",
+    "main.js.map": "https://ohhkaneda.github.io/csb-df8s1f/static/js/main.ed70d269.chunk.js.map",
+    "runtime-main.js": "https://ohhkaneda.github.io/csb-df8s1f/static/js/runtime-main.64b36f16.js",
+    "runtime-main.js.map": "https://ohhkaneda.github.io/csb-df8s1f/static/js/runtime-main.64b36f16.js.map",
+    "static/js/2.45c7305a.chunk.js": "https://ohhkaneda.github.io/csb-df8s1f/static/js/2.45c7305a.chunk.js",
+    "static/js/2.45c7305a.chunk.js.map": "https://ohhkaneda.github.io/csb-df8s1f/static/js/2.45c7305a.chunk.js.map",
+    "index.html": "https://ohhkaneda.github.io/csb-df8s1f/index.html",
+    "static/css/main.0d6aa366.chunk.css.map": "https://ohhkaneda.github.io/csb-df8s1f/static/css/main.0d6aa366.chunk.css.map",
+    "static/js/2.45c7305a.chunk.js.LICENSE.txt": "https://ohhkaneda.github.io/csb-df8s1f/static/js/2.45c7305a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64b36f16.js",
+    "static/js/2.45c7305a.chunk.js",
+    "static/css/main.0d6aa366.chunk.css",
+    "static/js/main.ed70d269.chunk.js"
+  ]
+}
